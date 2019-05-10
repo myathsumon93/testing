@@ -31,7 +31,7 @@ print "<br>";
 }
 sort($dinner);
 sort($meal);
-print "After Sorting:\n";
+print "After Sorting Sorting :\n";
 print "<br>";
 foreach ($dinner as $key => $value) {
 print " \$dinner: $key $value\n"; }
